@@ -2,8 +2,8 @@
 
 **Table of Contents**
 
-- [cli.js](#-cli)
-- [index.js](#-index)
+- [cli.js](#-cli.js)
+- [index.js](#-index.js)
 
 ## cli.js
 
@@ -45,3 +45,6 @@ The function `start` takes a dictionnary as a parameter. This dictionnary contai
 - if the user entered to command `node cli.js --help`, the `help` function is launched and the script stops
 - if not, the spinner starts and the `start` function is launched
 
+
+
+## index.js

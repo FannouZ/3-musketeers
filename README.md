@@ -111,5 +111,3 @@ Understand first the library features
 ## Licence
 
 [Uncopyrighted](http://zenhabits.net/uncopyright/)
-
-test
